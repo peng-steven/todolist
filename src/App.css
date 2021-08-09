@@ -1,6 +1,6 @@
 body{
-  background: lightslategray;
-  font-family: 'Montserrat', sans-serif;
+  background: darkgrey;
+  font-family: 'Times', sans-serif;
   font-size: 20px;
 }
 
@@ -16,11 +16,11 @@ body{
 }
 .app-title{
   text-align: center;
-  color: lightblue;
+  color: royalblue;
   font-size: 70px;
 }
 .container{
-  border: 5px solid pink;
+  border: 5px red;
   border-radius: 25px;
 
 
