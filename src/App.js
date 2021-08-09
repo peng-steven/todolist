@@ -90,7 +90,7 @@ class App extends React.Component {
     const list = [...this.state.list];
     // filter out the item being deleted
     const updatedList = list.filter(item => item.id !== id);
-
+    //update state
     this.setState({ list: updatedList });
   }
 
