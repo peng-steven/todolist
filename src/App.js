@@ -72,7 +72,7 @@ class App extends React.Component {
 
     };
 
-    // copy current list of items
+    // copy current list of items using spread operator
     const list = [...this.state.list];
 
     // add the new item to the list
