@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
+
+
+
 class App extends React.Component {
   constructor(props) {
     super(props);
@@ -95,6 +98,8 @@ class App extends React.Component {
   }
 
   render() {
+
+
     return (
         <div>
 
@@ -142,8 +147,10 @@ class App extends React.Component {
             </div>
           </div>
         </div>
+
     );
   }
 }
+//BEGIN CHECKBOX ACCOUNT INFO PORTION
 
 export default App;
